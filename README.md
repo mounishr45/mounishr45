@@ -1,16 +1,35 @@
-## Hi there 👋
+👋 Hi, I'm Mounish Reddy
 
-<!--
-**mounishr45/mounishr45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AI & Data Science)
 
-Here are some ideas to get you started:
+💻 Passionate about AI, Machine Learning, Data Science, and Python Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+• Machine Learning
+• Deep Learning
+• Streamlit
+• SQL
+
+🛠 Skills
+• Python
+• Java
+• C
+• Pandas
+• NumPy
+• Scikit-Learn
+• Git
+• GitHub
+• VS Code
+
+🚀 Projects
+• Employee Career Prediction
+• Data Analytics Dashboard
+• Machine Learning Models
+• Streamlit Applications
+
+📫 Reach me
+Email:
+LinkedIn:
+
+⚡ Fun Fact
+I enjoy solving coding problems and building AI projects.
